@@ -1,2 +1,3 @@
-# ML-project
-this repository is for  ml-projects
+# MINI PROJECT
+this repository is for  mini-project machine learning 
+
